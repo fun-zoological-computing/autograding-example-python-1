@@ -1,3 +1,5 @@
+# Autograding Example: on the teacher end
+
 The way the auto-graded Python assignments work is the student is
 
 1 added to the organisation providing Github education
@@ -13,7 +15,6 @@ The way the auto-graded Python assignments work is the student is
 6. If 5 yields a successful CI unit test run, a pass is visible to the advisor.
 
 
-
 In order to make the above workflow work in a meaningful way, it would be good to have some data to work with now.
 
 Also, I recommend that Nic and Alex do this trivial Python example. You just have to edit a string to make a unit test pass.
@@ -21,7 +22,8 @@ Also, I recommend that Nic and Alex do this trivial Python example. You just hav
 https://classroom.github.com/a/9j82gjXS.
 
 
-# Autograding Example: Python
+# Autograding Example: on the student end
+### Python
 This example project is written in Python, and tested with pytest.
 
 ### The assignment
